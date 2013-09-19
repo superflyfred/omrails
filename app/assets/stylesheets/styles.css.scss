@@ -1,9 +1,11 @@
-
+$navbarBackgroundHighlight: white;
+$navbarBackground: white;
+$btnPrimaryBackground: purple;
 
 @import 'bootstrap' ;
 
 body {
-	padding-top: 120px;
+	padding-top: 60px;
 }
 
 @import 'bootstrap-responsive' ;
